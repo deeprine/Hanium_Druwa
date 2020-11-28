@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219467976351",
+    "firebase_url": "https://apt-icon-285815.firebaseio.com",
+    "project_id": "apt-icon-285815",
+    "storage_bucket": "apt-icon-285815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219467976351:android:8fc992e136abfb1f351caa",
+        "android_client_info": {
+          "package_name": "com.example.duruwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219467976351-bl21pfg3vrk6n6dgscp3tavv13j91ie8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXh-NQYXjuTlDyNaQxWQEEOV0TsaUbfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219467976351-bl21pfg3vrk6n6dgscp3tavv13j91ie8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

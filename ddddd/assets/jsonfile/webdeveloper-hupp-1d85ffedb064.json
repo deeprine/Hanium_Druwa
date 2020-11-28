@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "webdeveloper-hupp",
+  "private_key_id": "1d85ffedb06414e5abc66778c8cb5de86ba816d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUIp2LK+3rhGX6\nEg3h+Cyb4IcXEmKdnznoxs7JyJfhX+8RHFE9IzlK1C4Ey2RNE24ojC/q4dt5ZhtK\nWRnAGw3ikB4xY//oYtXQFFctN8Fby9NE/ARKHbKzQYy7JsGqqqIHtdi2nj2ROeP5\n0r3KcvmjMtPzItaTzLqrPUGdxvaMv1EAvmGQhyYhuJvntKcNqYokZqFfkMkT0a0O\nbJCLPhFoB0cde1P9DyW5oJ2qM5THcJsok9w+5sK2emJ5etc0/gZjEMTT3b/on9vU\nAEXfj7cF8JvgsChnxPOjHIT+Uw44oYaVVQII8bputbQnRAkCL85XFo7vwuWfZ/lz\nRvwv+5Q9AgMBAAECggEADF96fegRh/egdQ4BhkkR3QOjDXryiowDdirGW+mZxjjw\nujhDGsRHrrAigQAV+RLljXLjxpjm0rVcaSE6ScSqMilCwZG6FuVQ4EKXdRk363E/\ngNoMLACAcEkl+rJ/gENUkQuPuNMQ9zv/qo4aqMi8+8JWr2s8RcGer6cygQ/eSIYy\n32T+TwU8op4OsKmLOs14tynhNN1Ld5UUEtMMsdp/XGnMuoaFUSHetgfF8DZpm1nS\ndKqdVee3tebIDs6XBiSaan7GcAd6mkfyQ/xudkvEdzcPpTMh8oHG+xmyC5ZwgwKg\nKuNRAMAbyn0iljtBn7EXvekKN7RsTreLtsx/GgByMQKBgQD8Yetv6+txm6Ev1RoE\nPT9BbFdzBTAM1ne665L8Z7zUn74jJHVEkx6jnNt6rs9Zj+6OnqbTjbc/nbFPSO0A\nwAZplGC0CLSV3KD+xsnWGP6pHaYQN4r+FLrZ+uuq+bFr+ixohxEIQRAl/vyq9UXi\nZ+eQGv5dqoWe9/nn2Wzxx06KJQKBgQDXLQOnAH2XRE/tAya/lr0pGWWEOmYSI6oi\nXMW4YIDazvjdfx4/Y5CMTH0Ttp8UBUiqwraegcQU2mbUdu59TT6Qtl0507SOsCyA\nbxzBoi9+BPyiFC5dNrH/4YpZjAyugNFCQMwAvctgOa5zBRCtnxb0zMS0FWl6Axc+\njK16QIXqOQKBgQCKo7uyirWWffiIjxawl3iFFt/fBk2D79hrrPbcgpv/bRUEtwVY\nOz0MgaErfpXWzDMu00YvVl0ArD53oEbZL6MWInUQ0Otqm30xF8BORQK3odrUc759\nnqOaFLWbAXkOKKp2bSPVFfCp/q2LuBrAqXVR+xIaIA8w6WW1kAHBu0uQpQKBgDgU\nCzei8RhTPWFPyPF1n6bub36ematwkA6UjxMWU36zIjjXwFJU6H8oEBDrL1pQZjfa\nty1oNGoa4WHN/Sm6z+t3G6TOf+gQEgkG7D+qvSXittSm3c59SradWSktTsDL4b2a\nlZA75p0Va1meoFIffCQgmcM1MWATHiO3Fh8eYchBAoGAcAPyJQe/Pl+3wi8PDvIp\nCifOnMdc2nQg0jf1B/9OelxaNpJveu9khNQm0kX32mkfPgV54SmeV40+g8r3Exuh\n1paqk4PyITBwezoau0PrrzsLm7d5BtNNga5zhkwnZoXtfa1UOQnHYCM2bZRAzwNL\nbD0rPzFkF6htbk/N/qQTMvU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-iivefc@webdeveloper-hupp.iam.gserviceaccount.com",
+  "client_id": "106731583262202761960",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-iivefc%40webdeveloper-hupp.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "personnel-general-affairs-jnes",
+  "private_key_id": "aad4a7a81d653fc5c0d93933b9ee33cab111dc64",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiUDCnDxAqcyhF\nBfSliWjfjwz1FFWIwknWXw1eHTpmvFDO+v//rlyrVC6nhiQRn5i3HXQrSb/5SWNs\nerNwWGIexg+FGGa5JDFEvQjxJsN5AElzH9Je5JaF+OpOayhdCE1riZeEVnczR2UJ\nkgi+nvQNX82S8kTytBuGHkv6/wFbfUsMLKyLjIv4emtlTNHC9N4RK3JWxTT9N2am\n87R55eQmlCjmQOAz2JuDUB6KAZ9GWl6alch2XtZBlOL7qvXtFd4x5gtoFmIQqtM3\nSAxW2b6GaewCNE4gtHcZno5iqQA6jAV/lXyZf3Iab0/xa0hy3toUVKaHde2UvySJ\nGv4V2ACBAgMBAAECggEAT4VSEMbEeMeqdwaP8Xn8s2p2QqwPq8zkN+6hsfZH4oVo\nYb9/JFjcdePsZ47EpQ232B7KB1s+fneCCmei+euTRthqSh7GVPZyXObwNpVzNxj4\n4zo36t27ES/+OyUsxUeIBqOGZAOoqqrTyXiOaDWgA91n7hJbzTyIL5EwUGwW0ics\ndDWuu5Y2Va+nChG20qX5qxmAQpCdIxhVIFl3mSE7xgGjeLepaWZz526CjEifN4s4\nqxB4znStLnXGYQTRddRxQna4B4kqJnOzSXeq8X0abp0eethMoQFI+WVa1m6jUAj8\nz4gXJybC1JfQek9P/4Jhe7KBahP0hPcbcLrdsFxHcQKBgQDUGnf9Fi8Zhq2Dbz0q\nFVkS3/be0I4bt57OPxLtu+BOP7Cl+voUzEuAAwiYXD/KQXXIEJIeXN6mrBiRhweS\n2XJajrSNvFu9SyWwi6w+QdHAipJZCySjqlNGqTTtzpNSfc+F5XdoPM6jEO43JnVF\nVhxyDGy1QT1dl9ThurG5aUxDKwKBgQDD58UuopSzgXnBxbTRhJ7aVR9vzeb8y1dH\nK6UCreCty5wHYZJ9c3ri8N9AkTxuKjgtHdu0UE/XBpWR+8XHc+gXDX2hRs/nA9rZ\nJi3mkPbuKtrh1c6kO6aKETIBT0f1gXIuuAZ9W5dPmbNRm6qRfT8pUF2VpJRcH6Ya\njzbLlbolAwKBgBrUZk0rWzXdZWF01sXWAXhzwCSbOP6kkYABVoGf/FWplMzKHIw4\n82vz9khfkuogsadnATS6BqgKqOjvrbOTsfVmi8xKAUjGkrPsVxNg/Alg/fYphK73\nQqVzjfBu6w/KPk/voNUcq/7Qi3GKedcVd2+txqp+4CZQqGsNVKHhgfYVAoGAXthq\nFZ7u4U1RFmhSl5FemxPVKXsFVuRXeASAWiC2g03tV4F8u7HaD99QJuFp4WgdVHJ9\nOPoc/VyZs1iys1LBTc/hP+CZrR2nqbQbSuJqOnqTB/1MkySyB2w1yn6ItyqZjlbY\nBX7/bbFbKKp11QRPPQBEnrtUfJlyAK/PdpchzOMCgYBO+XSGDTyvRoYSuT4xNUZ1\n7koryTf2owqat2tA5Tzqb9dscuzlTy6wsKfHZ05QemOa5C7bR/v6wuLXy6ulpA8k\n69B6KSQH+qoovBD7U8HNwZSnB+TVhieAMLMmjvzhvc5Ru9q0WT614MH1YJxF44wL\nvOzm1hhbLZHO2wZCh68KmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-wtoiro@personnel-general-affairs-jnes.iam.gserviceaccount.com",
+  "client_id": "101420414387055894484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-wtoiro%40personnel-general-affairs-jnes.iam.gserviceaccount.com"
+}

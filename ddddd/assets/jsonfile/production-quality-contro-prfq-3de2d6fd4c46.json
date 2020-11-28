@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "production-quality-contro-prfq",
+  "private_key_id": "3de2d6fd4c46bf139c6a1fd420d3288d1d3adfc8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCujdgdF6eSFlzZ\nqtGDVGVAFKHP3tkgHDHWN8MZLPuvIKx//3U/NKKC11GaDtp8kifwqwRefGwx9IMU\nsx4vCC5Yq+vVyD23IuJZt1nEJq4tid3KpRDqscdBxHPfYkxZbaBmHvZnna4HGofe\n+9jEXKsYoZLNG091oC9QkpRDYcu353myUUymPTn0n7HrnNIsZ482mVbV+pftHnVH\noqHkq+qf5qWi5irXIiLW/c0kML8hI5y8obhfmOqweknkqX3jq1Yt21IlKhmP0c1c\nbjFJZ6zj+MSRSRi+RHADTsWMgm5ISn6BGaZfQem4Wn3ef0LxTdIZnXSgFk1FZ8jT\n49G++RkJAgMBAAECggEABqV/XCQ6VAAKNbchD2Plnb2WC0kFHJfIBZMjGImI82Tw\n/lZDfaOgb51s1MsC4olpR0BhIIsEh6ZsluKhytDjtY3B3FhikhhG80J6H1OXgEO7\n93l9yKH6UgLhTxIWyl+beERuqUHQVZQ+e4l1bBrnNc1yE6iaALvQnBFaieQRS2ky\nukdqZ2dVwa5kZZ9Wm3Ge6ISvu+7u6EfWblMcTemdC+7bPxatk6BYEw2LEVaQEnma\noK0gXEdsxUdg76fnbJWKYnEZ5VPV913M1g5DxizG7Vhvgm8OJTwxtdJevES+3R6s\n2vIKfOceyk3qABQt2ByqcuVZ4n1CgY4TB2Ts4NLGPQKBgQDhsC8B52G7wYk/E0yt\nYnnenDoBxnOAi7n0ne2ANY8YENrz29OYFISriMo+loYfaltalSx7Dj6mcRQwh+oO\nv3qOEehe56i/uwyHVRrJDbTu92iknnvPOlt9mJ4jMIfDZ7eP0xzwxoO6LQm8c7sk\nD7NmOOCUMFetCqqXANCfJajBrwKBgQDF/4U341kfa0GBGmInFFZt34AlRXcvFDGO\n0I4kGSClK7HJfgP+o5is1oKgqpxylVCtVxJ3owLSv53/kFe15inMLiX1ThVgYymV\nMeaC8MO88VAryDo1knzwnTkQMtaLFs9Y4ncemC3SBWmv5fF15vFBR+dexYbUmhuv\niWBt1xKWxwKBgDxtGrjsxasqr1+XAEGwCydCNvnAs64oOxq2qh9Yt75ezPDb27Rt\nUfRHhLbrQG/q3xjKtgUglD+mKRyxV0apl9uwCcJXTkQ/haQ6chiAtgABeCATWtzq\nKBLhqP2NAdycyXYVtTr2O9C+PEwbxHBsT8E/20lyBBeNso0Jp9HkmGF7AoGAcyhj\nbhb/zeNO7OzQa5RLlInqeUMGx84B6ONp2Jr4vrhEJkHxxteVw+jbfuDcL1Si4L6E\n0ipwSO0D0xE7wmMEqmmo0BzDGBV0qP6l6EBqR+k+TMie+muh2TxIZSB8Ydc5b6P/\nzj6KX92gE5s0rfNNHD/a1OcjvWGIerb268usVx8CgYEA0SdxSB2IaKianbtIvVH/\ncEY+5ViZz4L3og3O6wS4PTzMv4g75sKk6DLgf04Q+PLTPVX1NmqptZ+M2NZLhIY1\nCxoUJ5eoVQxaFwA12ZNerT0/EqMreaP5kYUMcFTEu4NRH22laqNCPEYEw9+suKe0\nCnHCgOKzuyaXE7sq6WA8sUo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-dpnegu@production-quality-contro-prfq.iam.gserviceaccount.com",
+  "client_id": "100915356228415622553",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-dpnegu%40production-quality-contro-prfq.iam.gserviceaccount.com"
+}

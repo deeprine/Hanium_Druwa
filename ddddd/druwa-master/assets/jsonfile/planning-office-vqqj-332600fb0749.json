@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "planning-office-vqqj",
+  "private_key_id": "332600fb0749e0c69eb543e15573d6640c7da2fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCGm2faq45MsXNT\n9BJULsilyQDmXPoXyAblyVsaS4FjmJah8WBQtJU7xZ1lHwBFYPgtQlxCx3d/bNdH\nHh5e8gxSiJmMrOwfzG4eJjYegfwSw24F7rAczamZB1zUp0jTPOzmoVF8P3HV5dF3\nZw6jR03NM6QVg/9ZCBDiy08ux0agnCZtNOSZdj4ZOCHQx45gBqeGK/4z3bdSE7bl\nTrAAPoz0G6JSJubI4L/lIQHWpEuHaozg7ct5dRcGc++bp+4B/6jMb9h19/k47mhg\n+sdOCAs+aGZ5uOYOQ2WhBpzFypN8aP9njXn6sjr4vWef4DoFdyThSqWw6q9e8RCa\nwZMhm3U1AgMBAAECggEAA/dAToe8FmtMysFJ8TjeTwn74t6uzcNdqbnBuVBng9bQ\n+/0gx2Q0PvtQYm37mCDCICs9WdVCxKUQFQ8NYEkDFWVJ1aaaVybU87nH0K1aysL/\nH7bSHEx4f/px4yAsebTGr+c6kKMI0xj0XHfkopQVsbrDK27YFZHl3f8duFDFPu7F\nN0anI/j01CtFVAJCi+FnQ9A+ERrqJ3ykOckCTdxvdXHMV9+xeJ0QxRK4Hk3xIzmV\nzARZj/WXXJaufZPIedZkRqDhZvgU7NP9yo+ZSIc3YHEpfwmMpLuYwmWBKYNW1N+Y\nwM0868I2ESWGpu8hMKQdsBNwaSD7Zrx9CEYodMXzHQKBgQC69mqIZ6JWzg9lPCW7\nnowaT05ketoPcDYu6q1F1jW3D/5PTL4N1fnyRlXA20TPO9p6tZ2dbig+aASfBe51\nYBpJkJpWtz1Rlk5NnOTJg02GZLpsZ04BblA1B9sjsw0d4RkL57f4/ui8M5W0xveS\nvUm/5aCjxjMhZYuYvj//dfgftwKBgQC4T9HTqEg9jZi0DKOSCWO4H/DpXil8sgVq\nNMkf7Rb4fBCSSfxHNVWDHecWqso30yuGqAKWEmmr3I61cjfFgpauqDaNsEi8ZFuc\nETKNfrgFdPXD86AwhaYlnM2OgU9Fy6zBdndKtFxC2SZGlvttrJKgZiNM8gTVTAcg\nWAoVrDh6cwKBgB1Ytooosjur5pC+azHTBizPDAALpJTNyUN+BKq0oAPXF9T8t8xW\nLQCRd75o7JkWzQl73nyqoNiC3U7U0IRODHJFp2Q7KP3YePwHx4W1/YI952FCqeTh\nmudoD0bAQSvSfGr4+VC1OnToJ/STUqMO4Tek5J0wbDAuz0Wvfz4rF0JrAoGBAJFy\nu/0xwcCBa0464yItsrnsyur+2fKDce58NXOyX/w7u8AWDrYLCq5r/J9QrEAdry2W\njGPtp+JuLVhXCFgfU9YE/PgXc27oK7sffytWItZ7lC7MpU9lSNZJxZV9yhckQfJy\nEHWtm1lNj/0IzOWh2BwoPhdMri+8zarijyLHQ9KtAoGAFwuvCXolyfQ67M14+etn\nfaSj4lVJPK9Ww/Rv5vRaKWx7a+dHCvqMqqXP+7hyhGOS/gf4pkKq+G1/9SYeCwEC\ns7wu9uMljwB3zkszuM/BIqA262l9UFLsOgcORtGs+8cJOXZqZ/MPvJ+zosMBPZJg\npSt8X+Dt8IAdfPaI6CT8oJg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-sxyecs@planning-office-vqqj.iam.gserviceaccount.com",
+  "client_id": "108573089720933375938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-sxyecs%40planning-office-vqqj.iam.gserviceaccount.com"
+}
