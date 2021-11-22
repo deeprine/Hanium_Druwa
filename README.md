@@ -1,4 +1,4 @@
-# Mission
+# 프로젝트 요약
 한이음 - https://www.hanium.or.kr/portal/index.do
 작품 유튜브 동영상  - https://www.youtube.com/watch?v=OMIwm4GXqXw
 
